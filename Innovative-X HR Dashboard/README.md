@@ -94,7 +94,7 @@ The objective of this assignment is to analyze the InnovateX HR dataset and extr
 
 ![InnovativeX HR](https://github.com/user-attachments/assets/4cb18ca1-9acc-4ca1-8376-0cc239eb0aa4)
 
-![App Screenshot](file:///C:/Users/ADMIN/Desktop/InnovativeX%20HR%20screenshot.jpeg)
+
 
 
 
